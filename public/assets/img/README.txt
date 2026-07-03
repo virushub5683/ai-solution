@@ -1,0 +1,1 @@
+Place a hero image named hero.jpg here if you want to replace the gradient background. The page works without it.
